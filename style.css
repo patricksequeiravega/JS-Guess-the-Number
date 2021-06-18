@@ -1,5 +1,6 @@
 html {
   font-family: sans-serif;
+  background-color: green;
 }
 
 body {
@@ -12,4 +13,5 @@ body {
 .lastResult {
   color: white;
   padding: 3px;
+  background-color: red;
 }
